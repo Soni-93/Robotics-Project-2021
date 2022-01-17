@@ -1,0 +1,3 @@
+[submodule "turtlebot_viz"]
+	path = turtlebot_viz
+	url = https://github.com/turtlebot/turtlebot_viz
